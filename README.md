@@ -10,7 +10,7 @@ The [official Material site](https://material.io/develop/android/) has great inf
 Current Build Status Is:
 [![Build Status](https://app.bitrise.io/app/185d24999f31db04/status.svg?token=H8R81uEqmKABt_zQjgNRog&branch=master)](https://app.bitrise.io/app/185d24999f31db04)
 
-_Modifiy gradle.properties to build locally_
+*You must modify gradle.properties to build locally*
 
 In order to use some the API functionality in code, you will need add your own API key to `gradle.properties`
 [Fono API](https://fonoapi.freshpixl.com/)
